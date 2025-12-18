@@ -23,5 +23,5 @@ VALUES ('1984', 'Dystopian', 1, 1949),
 
 
 -- Link for TEST-1:
--- https://app.easyevaluate.com/admin/add/attendee/wEozbm02O4
+-- https://app.easyevaluate.com/attendee/test/wEozbm02O4
 
