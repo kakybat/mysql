@@ -22,6 +22,6 @@ VALUES ('1984', 'Dystopian', 1, 1949),
        ('Animal Farm', 'Satire', 1, 1945);
 
 
--- Link TEST-1:
+-- Link for TEST-1:
 -- https://app.easyevaluate.com/admin/add/attendee/wEozbm02O4
 
