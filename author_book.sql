@@ -20,3 +20,8 @@ VALUES ('1984', 'Dystopian', 1, 1949),
        ('Norwegian Wood', 'Romance', 2, 1987),
        ('Pride and Prejudice', 'Romance', 3, 1813),
        ('Animal Farm', 'Satire', 1, 1945);
+
+
+-- Link TEST-1:
+-- https://app.easyevaluate.com/admin/add/attendee/wEozbm02O4
+
